@@ -19,6 +19,10 @@ It allows us to join a base URL with a relative URL to form an absolute URL.
 ### beautifulsoup:
 
 It is a python library to extract data out of HTML and XML files. We can convert a HTML page to a beautifulsoup object and then extract HTML tags along with their contents
+<script src="https://rawgit.com/web-animations/web-animations-js/master/web-animations.min.js"></script>
+<div class="pulse" style="width: 150px;">
+  Hello world!
+</div>
 
 
 ### Features:
@@ -99,10 +103,3 @@ else:
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karansharma2000/projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out
