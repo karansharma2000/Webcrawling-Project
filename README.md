@@ -19,7 +19,7 @@ It allows us to join a base URL with a relative URL to form an absolute URL.
 ### beautifulsoup:
 
 It is a python library to extract data out of HTML and XML files. We can convert a HTML page to a beautifulsoup object and then extract HTML tags along with their contents
-<script src="https://rawgit.com/web-animations/web-animations-js/master/web-animations.min.js"></script>
+
 <div class="pulse" style="width: 150px;">
   Hello world!
 </div>
