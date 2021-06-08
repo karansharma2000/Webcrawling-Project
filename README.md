@@ -1,4 +1,4 @@
-# Welcome to projects by Karan Sharma   ![width="10" height="10"](/images/7918BE1D-FD98-4360-86B1-5927F3DB2EA7.PNG {width=40px height=400px})
+# Welcome to projects by Karan Sharma   ![width="10" height="10"](/images/7918BE1D-FD98-4360-86B1-5927F3DB2EA7.PNG)
 All the projects done by Karan Sharma on github posted in one place
 ## Webcrawling
 *Web scraping is extensively being used in many industrial applications today. Be it in the field of natural language understanding or data analytics, scraping data from websites is one of the main aspects of many such applications. Scraping of data from websites is extracting large amount of contextual texts from a set of websites for different uses. This project can also be extended for further use such as topic or theme based text summarization, news scraping from news websites, scraping of images for training a model etc.*
