@@ -3,25 +3,25 @@ All the projects done by Karan Sharma on github posted in one place
 ## Webcrawling
 *Web scraping is extensively being used in many industrial applications today. Be it in the field of natural language understanding or data analytics, scraping data from websites is one of the main aspects of many such applications. Scraping of data from websites is extracting large amount of contextual texts from a set of websites for different uses. This project can also be extended for further use such as topic or theme based text summarization, news scraping from news websites, scraping of images for training a model etc.*
 
-###Libraries Used:
+### Libraries Used:
 
 To start with, let us discuss the several libraries that we are going to use in this project.
 
-###requests:  
+### requests:  
 
 It is a library to send HTTP 1.1 requests very easily. Using requests.get method, we can extract a URL’s HTML content.
-###urlparse: 
+### urlparse: 
 
 It provides a standard interface to break down a URL into different components such as network location, addressing scheme, path, etc.
-###urljoin: 
+### urljoin: 
 
 It allows us to join a base URL with a relative URL to form an absolute URL.
-###beautifulsoup:
+### beautifulsoup:
 
 It is a python library to extract data out of HTML and XML files. We can convert a HTML page to a beautifulsoup object and then extract HTML tags along with their contents
 
 
-###Features:
+### Features:
 
 The various aspects and features of the project.
 
